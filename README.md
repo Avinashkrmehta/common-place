@@ -1,4 +1,4 @@
-# Ruby Programmer Examination
+# Ruby Programmer
 
 Sample questions for Test
 
